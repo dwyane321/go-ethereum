@@ -1,0 +1,16 @@
+以太坊源码结构分析：
+
+          . accounts     以太坊账户管理
+          . bmt           merkle树的实现
+          . build         实现编译脚本与配置
+          . cmd          命令行工具
+          . consesus      共识算法
+          . core          核心算法&数据结构
+          . crypto        加密算法
+          . eth           以太坊协议
+          . ethclient     RPC客户端
+          . ethstates     网络状态报告
+          . event         以太坊事件
+          . 
+
+
